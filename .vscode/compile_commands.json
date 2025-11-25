@@ -1,0 +1,81 @@
+[
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/rx/linux/x86_64/release/test/rx.cpp.o", "test/rx.cpp"],
+  "file": "test/rx.cpp"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/export.c.o", "rid_capture/export.c"],
+  "file": "rid_capture/export.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/rid_capture.c.o", "rid_capture/rid_capture.c"],
+  "file": "rid_capture/rid_capture.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/summary.c.o", "rid_capture/summary.c"],
+  "file": "rid_capture/summary.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/verify.c.o", "rid_capture/verify.c"],
+  "file": "rid_capture/verify.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/france.c.o", "rid_capture/france.c"],
+  "file": "rid_capture/france.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/display.c.o", "rid_capture/display.c"],
+  "file": "rid_capture/display.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/rid_capture/m_per_deg.c.o", "rid_capture/m_per_deg.c"],
+  "file": "rid_capture/m_per_deg.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-I/usr/local/libpcap_loongarch/include", "-DNDEBUG", "-o", "build/.objs/rid_capture/linux/loongarch64/release/opendroneid.c.o", "opendroneid.c"],
+  "file": "opendroneid.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/odidRecver/linux/loongarch64/release/opendroneid.c.o", "opendroneid.c"],
+  "file": "opendroneid.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/odidRecver/linux/loongarch64/release/temp.cpp.o", "temp.cpp"],
+  "file": "temp.cpp"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc", "-c", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/odidRecver/linux/loongarch64/release/main.cpp.o", "main.cpp"],
+  "file": "main.cpp"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/hostTest/linux/x86_64/release/opendroneid.c.o", "opendroneid.c"],
+  "file": "opendroneid.c"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/hostTest/linux/x86_64/release/temp.cpp.o", "temp.cpp"],
+  "file": "temp.cpp"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/hostTest/linux/x86_64/release/main.cpp.o", "main.cpp"],
+  "file": "main.cpp"
+},
+{
+  "directory": "/home/zhewana/LoonArch_Workspace/odidRecver",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/tx/linux/x86_64/release/test/tx.c.o", "test/tx.c"],
+  "file": "test/tx.c"
+}]
