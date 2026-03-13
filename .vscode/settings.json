@@ -45,7 +45,15 @@
     "typeinfo": "cpp",
     "iostream": "cpp",
     "stdlib.h": "c",
-    "rid_capture.h": "c"
+    "rid_capture.h": "c",
+    "mqueue.h": "c",
+    "inet.h": "c",
+    "in.h": "c",
+    "thread": "cpp",
+    "chrono": "cpp",
+    "ctime": "cpp",
+    "ratio": "cpp",
+    "msgpacket.h": "c"
   },
   "C_Cpp.default.compilerPath": "/home/zhewana/LoonArch_Workspace/loongson-gnu-toolchain-8.3-x86_64-loongarch64-linux-gnu-rc1.6/bin/loongarch64-linux-gnu-gcc"
 }

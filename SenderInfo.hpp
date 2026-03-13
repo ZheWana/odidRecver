@@ -12,6 +12,7 @@ public:
 public:
   std::string id = "";             // 接收机ID
   int lastSentTimestep = -1;       // 上次收到数据包的时间戳
+  int lastInterval = -1;           // 最近一次收到数据包的间隔
   int recvedTimes = 0;             // 接收到该接收机的数据包的次数
   int nextSendTimestep = -1;       // 预计下次发送数据包的时间戳
   std::deque<int> intervalHistory; // 存放每次收到数据包间隔历史的队列

@@ -1,17 +1,19 @@
 #ifndef __INFO_MSG_H__
 #define __INFO_MSG_H__
 
-#define PACKET_NAME_MAX_SIZE 32
+#define PACKET_NAME_MAX_SIZE 25
 
 #ifdef __cplusplus
 extern "C"
 {
+#endif
+#include "stdint.h"
   typedef struct MsgPacket
   {
     char ID[PACKET_NAME_MAX_SIZE];
+    uint16_t channel_freq;
     int timestep;
   } msgPacket_t;
-#endif
 
 #ifdef __cplusplus
 }
